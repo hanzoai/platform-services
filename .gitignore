@@ -1,0 +1,11 @@
+# Build artifacts (binary is CI-built; never committed).
+/platform-services
+/probe
+
+# Base runtime data dirs.
+/base_/
+/data/
+/vaults/
+*.db
+*.db-shm
+*.db-wal
