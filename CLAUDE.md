@@ -56,3 +56,11 @@ that drive it. Do NOT invent upstream URLs — they're in `config.go`.
 - Add plugins this service doesn't need. Lean binary.
 - Reorder `PSPerm*` bits or method/Op ordinals — they're the wire contract the
   console's generated TS client agrees on.
+
+## License
+
+Relicensed from BSD-3-Clause to the dual `MIT OR Apache-2.0` grant under
+HIP-0137 ("One License", `hanzoai/hips`). `LICENSE` states the dual grant;
+`LICENSE-MIT` and `LICENSE-APACHE` carry the full texts. The original BSD
+copyright line — `2026, Hanzo AI, Inc.` — carries over verbatim into
+`LICENSE-MIT`: the relicense changes the grant, not the copyright record.
