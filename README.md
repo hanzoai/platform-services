@@ -1,5 +1,7 @@
 # platform-services
 
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/platform-services&ref=main&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/platform-services&ref=main&action=edit) [![Deploy with Hanzo](https://hanzo.app/badges/deploy-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/platform-services&ref=main&action=deploy)
+
 A Hanzo Base-native Go service binary, one of 10 in the console tRPC→ZAP
 migration. It replaces **11 console tRPC routers** with a single typed
 [ZAP](../zap) capability-RPC interface on [Hanzo Base](../base):
